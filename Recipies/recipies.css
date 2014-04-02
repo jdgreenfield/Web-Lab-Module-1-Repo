@@ -1,0 +1,29 @@
+body{
+    background-color: #cccccc;
+    font-family: Verdana, sans-serif;
+    padding-left: 10px;
+}
+
+h1, h2{
+    color: #fccffc;
+    font-family: cursive;
+    text-shadow: 1px 1px #000000;
+}
+
+ul{
+    color: #ffffff;
+    list-style-type: square
+}
+
+ol{
+    color: #0080ff;
+}
+
+p{
+    color: #fe2e2e;
+}
+
+strong{
+    color: #ff8000;
+}
+
